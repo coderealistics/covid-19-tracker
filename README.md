@@ -1,4 +1,5 @@
 # covid-19-tracker
+0. Demo server: https://covid-19-tracker-37d0d.web.app/
 1. Create Wireframe
 2. Create React App
 3. Cleanup Project
